@@ -1,0 +1,17 @@
+->DATABASE:online-quran-academy
+
+->TABLES:
+1) calender  ==> (1)Id (2)Date (3)Day (4)Name (5)Details
+2) contact   ==> (1)Id (2)Username (3)Email (4)Phone (5)Subject (6)Msg
+3) course    ==> (1)Id (2)Name
+4) days      ==> (1)Id (2)Name
+5) student   ==> (1)Id (2)Username (3)Email (4)Pass (5)Phone (6)Country (7)City (8)Course_Name (9)Course_Days 
+                 (10)details (11)Role
+
+->PAGES:
+1. Home
+2. About
+3. Courses
+4. Packages / Prices
+5. Contact
+6. Get Admission 
